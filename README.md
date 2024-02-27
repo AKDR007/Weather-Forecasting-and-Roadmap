@@ -34,5 +34,5 @@ To get started with using our weather forecasting system, follow these steps:
 1. Clone this repository to your local machine.
 2. Install the required dependencies listed in `requirements.txt`.
 3. Build the App either for Windows/Linux/Macos/iOS/Android
+
    
->>>>>>> c80c1efeaa3af96445c6ca8715b3a08b9d33623c
