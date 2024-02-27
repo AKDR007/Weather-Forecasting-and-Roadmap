@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-# akdr_weather
-
-A new Flutter project.
-=======
 # Weather-Forecasting-and-Roadmap
-
-
-
-# Weather Forecasting App
 
 Welcome to our Weather Forecasting App! This application utilizes various APIs to provide accurate and up-to-date weather forecasts for locations worldwide. Whether you're planning a trip, organizing outdoor activities, or simply curious about the weather, our app has you covered.
 
