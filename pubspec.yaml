@@ -21,3 +21,8 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  fonts:
+    - family: SF
+      fonts:
+        - asset: assets/fonts/SF_PRO.ttf
+

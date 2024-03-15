@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'LocationScreen.dart';
+import 'LocationAct.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:akdr_weather/Services/Weather.dart';
 
@@ -26,7 +26,7 @@ class _Loading extends State<Loading> {
     print(WD['coord']['lon']);
     print(WD['coord']['lat']);
     Navigator.push(context, MaterialPageRoute(builder: (context) {
-      return LocationScreen(locationWeather: WD);
+      return LocationAct(locationWeather: WD);
     }));
   }
 

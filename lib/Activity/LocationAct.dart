@@ -4,16 +4,16 @@ import 'package:akdr_weather/Activity/City.dart';
 import 'package:akdr_weather/Utilities/Constants.dart';
 import 'package:akdr_weather/Services/Weather.dart';
 
-class LocationScreen extends StatefulWidget {
-  LocationScreen({this.locationWeather});
+class LocationAct extends StatefulWidget {
+  LocationAct({this.locationWeather});
 
   final locationWeather;
 
   @override
-  _LocationScreenState createState() => _LocationScreenState();
+  _LocationAct createState() => _LocationAct();
 }
 
-class _LocationScreenState extends State<LocationScreen> {
+class _LocationAct extends State<LocationAct> {
   WeatherModel weather = WeatherModel();
 
   int temp = 0;

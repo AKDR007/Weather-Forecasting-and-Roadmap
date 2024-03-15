@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const String font_Family = "AKDR_FONT";
+const String font_Family = "SF";
 
 const kTempTextStyle = TextStyle(fontFamily: font_Family, fontSize: 100.0);
 

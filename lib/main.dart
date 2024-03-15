@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:akdr_weather/Activity/City.dart';
-import 'package:akdr_weather/Activity/Loading.dart';
+// import 'package:akdr_weather/Activity/Loading.dart';
 
 void main() {
   runApp(MyApp());

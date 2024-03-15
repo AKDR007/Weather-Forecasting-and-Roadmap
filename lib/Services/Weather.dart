@@ -1,7 +1,7 @@
 import 'package:akdr_weather/Services/Location.dart';
 import 'package:akdr_weather/Services/Networking.dart';
 
-const apikey = 'Your OpenWeather API KEY';
+const apikey = 'ef7d8582688fa71c5fc5e30d1a823734';
 
 String loc = "";
 
